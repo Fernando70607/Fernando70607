@@ -17,9 +17,6 @@
 
 ### ✨ Missões Completadas: Projetos
 
-### 🌠 Próximas Projetos
-
-💡 Como qualquer bom protagonista, estou sempre treinando e evoluindo minhas habilidades. Fique de olho nas próximas aventuras e nas novas técnicas que estou desenvolvendo!
 
 ### 💌 Siga-me na Jornada
 
