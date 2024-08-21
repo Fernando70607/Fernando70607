@@ -1,10 +1,9 @@
-## 🌸 Olá, viajante! Eu sou o **Fernando Gustavo dos Santos Dadalto** 🌟
+## Olá, viajante! Eu sou o **Fernando Gustavo dos Santos Dadalto** 
 
 ### 🧑‍💻 Sobre Mim
 
-🎓 Sou um **Desenvolvedor de Sistemas** fazendo faculdade de **Análise e Desenvolvimento de Sistemas**, estou sempre em uma jornada épica para dominar as mais incríveis técnicas de programação e criar soluções que brilhem como as estrelas no céu noturno!
+🎓 Sou um **Desenvolvedor de Sistemas** fazendo faculdade de **Análise e Desenvolvimento de Sistemas**, estou sempre em uma jornada  para compreender e  dominar as mais incríveis técnicas de programação e criar soluções !
 
-### ⚔️ Meu Arco de Poder: Tech Stack
 
 - **🎴 Habilidades Principais:**
   - ![C#](https://img.icons8.com/color/20/000000/c-sharp-logo.png) **C#**
@@ -18,7 +17,7 @@
 
 ### ✨ Missões Completadas: Projetos
 
-### 🌠 Próximas Aventuras
+### 🌠 Próximas Projetos
 
 💡 Como qualquer bom protagonista, estou sempre treinando e evoluindo minhas habilidades. Fique de olho nas próximas aventuras e nas novas técnicas que estou desenvolvendo!
 
