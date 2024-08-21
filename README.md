@@ -24,7 +24,7 @@
 
 ### 💌 Siga-me na Jornada
 
-- 🌐 **Guilda do LinkedIn**: [Conecte-se comigo](https://www.linkedin.com)
+- 🌐 **Guilda do LinkedIn**: [Conecte-se comigo](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)
 - 📜 **Mensagem de Corvo**: [fgdadalto@gmail.com.com](mailto:fgdadalto@gmail.com.com)
 
 **Vamos enfrentar esse mundo de códigos juntos, como uma verdadeira party!**
