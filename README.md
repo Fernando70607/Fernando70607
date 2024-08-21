@@ -2,7 +2,7 @@
 
 ### 🧑‍💻 Sobre Mim
 
-🎓 Sou um **Desenvolvedor de Sistemas** formado em **Análise e Desenvolvimento de Sistemas**. Como um verdadeiro protagonista de anime, estou sempre em uma jornada épica para dominar as mais incríveis técnicas de programação e criar soluções que brilhem como as estrelas no céu noturno!
+🎓 Sou um **Desenvolvedor de Sistemas** fazendo faculdade de **Análise e Desenvolvimento de Sistemas**, estou sempre em uma jornada épica para dominar as mais incríveis técnicas de programação e criar soluções que brilhem como as estrelas no céu noturno!
 
 ### ⚔️ Meu Arco de Poder: Tech Stack
 
